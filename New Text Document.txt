@@ -1,0 +1,36 @@
+<div class="offset-2"></div>
+			<div class="col-lg-8 col-md-8">
+				<h3 class="jda" >CONTACT</h3><hr>
+			</div>
+			<div class="offset-2"></div>
+		</div>
+		<div class="row">
+			<div class="offset-2"></div>
+			<div class="col-lg-4 col-md-4">
+				<label>FULL NAME</label>
+				<input class="inp" type="text" alt="snow" required>
+				<br>
+				<label>EMAIL</label>
+				<input class="inp" type="email" required>
+			</div>
+			<div class="col-lg-4 col-md-4">
+				<p class="vx">
+					Jujubes bear claw croissant wafer sweet lemon drops brownie chocolate bar. Sweet lollipop halvah tootsie roll cake fruitcake. Chocolate cake chocolate bar gingerbread lollipop tart. Jujubes bear claw donut chupa chups.
+				</p><br>
+				<p class="vx">
+					Linda Newman
+W325 State Road 123
+Mondovi, WI(Wisconsin) 98746-54321
+(715) 946 - 1234
+				</p>
+			</div>
+			<div class="offset-2"></div>
+		</div>
+		<div class="row">
+			<div class="offset-2"></div>
+			<div class="col-lg-8 col-md-8">
+				<label>MASSAGE</label>
+				<input class="kl" type="text"><br><br>
+				<button class="bu"> MASSAGE</button><br>
+			</div>
+			<div class="offset-2"></div>
